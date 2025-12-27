@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+.clickmebtn {
+    background-color: black;
+    color: white;
+
+}
+
+.noclickmebtn {
+    background-color: yellow;
+}
+
+.clickmebtn, .noclickmebtn {
+    font-size: 28px;
+    font-family: helvetica, 'Times New Roman', sans-serif;
+    
+}
